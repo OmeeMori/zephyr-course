@@ -1,0 +1,4 @@
+Zephyr important commands
+
+source  ~/zephyrproject/.venv/bin/activate    -> create evironment
+
