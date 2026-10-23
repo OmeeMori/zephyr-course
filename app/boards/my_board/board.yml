@@ -1,0 +1,6 @@
+board:
+  name: my_board
+  full_name: MY Board
+  vendor: Zep IOMICO
+  socs:
+  - name: esp32c3
